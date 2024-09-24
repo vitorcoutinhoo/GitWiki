@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/git-wiki/static/js/main.d36e29d0.js",
-    "static/media/github.png": "/git-wiki/static/media/github.4d74fd76ac168df7723c.png",
-    "index.html": "/git-wiki/index.html",
-    "main.d36e29d0.js.map": "/git-wiki/static/js/main.d36e29d0.js.map"
+    "main.js": "/GitWiki/static/js/main.59dce615.js",
+    "static/media/github.png": "/GitWiki/static/media/github.4d74fd76ac168df7723c.png",
+    "index.html": "/GitWiki/index.html",
+    "main.59dce615.js.map": "/GitWiki/static/js/main.59dce615.js.map"
   },
   "entrypoints": [
-    "static/js/main.d36e29d0.js"
+    "static/js/main.59dce615.js"
   ]
 }
